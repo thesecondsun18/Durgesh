@@ -1,0 +1,20 @@
+
+body{
+	background-color:grey;
+}
+.c1 hover
+{
+	background-color: green;
+	color: pink;
+}
+.c1
+{
+	font-family: georgian;
+	font-size: 18px;
+	margin: auto;
+    
+}
+.b1
+{
+	font-family: serif;
+}
